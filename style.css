@@ -1,0 +1,75 @@
+body, div, ul, li{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body{
+	background-image: url('../images/DSC_0297.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.Im {
+		width:auto;
+		height:150px;
+		margin:0 auto 0 auto;
+		padding:10px auto;
+}
+	 
+.child{
+	 width:50%;
+	 display:block;
+	 margin:0 auto 0 auto;
+}
+	 
+.Im img{
+	height:75%;
+	width:auto;
+	display:block;
+	padding:5px 0px;
+	margin:auto;	
+	margin-top: -50px;
+	margin-bottom: 5px;
+}
+
+#pic{
+	padding: 50px 50px 50px 50px;
+}
+
+#display{
+	border-radius: 20px;
+	width: 950px;
+	height: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	background:rgba(255,255,255,0.5);
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#container{
+	height: 90px;
+	width: 950px;
+	margin-top: 60px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	background:rgba(255,255,255,0.5);
+	border-radius: 20px;
+}
+
+ul#nav{
+	text-align: center;
+	overflow: hidden;
+	width: 450px;
+	margin: 0 auto;
+}
+
+ul#nav li.define a{
+	display: block;
+	width: 100px;
+	height: 77px;
+	padding: 50px 0 0 0;
+	margin: -40px 0px 0 0px;
+}
