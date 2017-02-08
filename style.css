@@ -10,7 +10,7 @@ body{
 	background-size: cover;
 }
 
-.Im {
+.center {
 		width:auto;
 		height:150px;
 		margin:0 auto 0 auto;
@@ -23,7 +23,7 @@ body{
 	 margin:0 auto 0 auto;
 }
 	 
-.Im img{
+.center img{
 	height:75%;
 	width:auto;
 	display:block;
