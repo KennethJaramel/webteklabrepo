@@ -56,6 +56,10 @@ div.container {
 	margin-bottom: 20px;
 }
 
+.container:hover {
+	opacity: 0.5;
+}
+
 div.holder {
 	border: 0px solid black;
 	margin: auto;
@@ -69,7 +73,7 @@ div.holder {
 }
 
 .holder a:hover{
-	background: #7c7575;
+	opacity: 0.5;
 }
 
 p.paragraph {
@@ -116,6 +120,9 @@ img.logo {
 	width: 25%;
 }
 
+.logo:hover {
+	opacity: 0.5;
+}
 .format{
 	 width:auto;
 	 display:block;
